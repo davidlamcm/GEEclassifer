@@ -1,7 +1,6 @@
 # GEEclassifer
 repo for dissertation
 
-
 # Timeline
     - targeted submission date : Summer Semester, 2017-18 ie. Jun 2018
     - 6 months to go
@@ -21,3 +20,12 @@ repo for dissertation
             - define areas/resolutions/layers 
                 - store and crops 
     - image size in prediction vs traning with labels can be different? 
+
+# reference to read
+    - Faster R-CNN for transfer learning ? 
+        - http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks
+        - https://github.com/ShaoqingRen/faster_rcnn
+    - https://research.googleblog.com/2017/05/updating-google-maps-with-deep-learning.html
+    - some one who got a simlir problem 
+        https://gab41.lab41.org/850k-images-in-24-hours-automating-deep-learning-dataset-creation-60bdced04275
+        
