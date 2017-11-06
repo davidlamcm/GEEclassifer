@@ -28,4 +28,12 @@ repo for dissertation
     - https://research.googleblog.com/2017/05/updating-google-maps-with-deep-learning.html
     - some one who got a simlir problem 
         https://gab41.lab41.org/850k-images-in-24-hours-automating-deep-learning-dataset-creation-60bdced04275
-        
+    -https://gis.stackexchange.com/questions/11395/spatial-resolution-of-google-earth-imagery
+        - explanation of GEE data resolution 
+    
+
+
+# things to mention in reports
+    - statelite image set : 
+        - sentinel 2a and 2b 
+        - http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/
