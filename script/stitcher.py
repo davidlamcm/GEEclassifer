@@ -32,10 +32,10 @@ def pixelstolatlon(px, py, zoom):
 
 # a neighbourhood in Lajeado, Brazil:
 
-upperleft =  '22.321728, 114.160809'
-lowerright = '22.302765, 114.177342'
+upperleft =  '22.311728, 114.160809'
+lowerright = '22.302765, 114.167342'
 
-zoom = 20   # be careful not to get too many images!
+zoom = 21   # be careful not to get too many images!
 
 ############################################
 
@@ -83,4 +83,4 @@ for x in range(cols):
         f=urllib.request.urlopen(url)
         im=Image.open(BytesIO(f.read()))
         final.paste(im, (int(x*largura), int(y*altura)))
-final.show()
+final.save("img"+str(zoom)+".jpg")
